@@ -41,7 +41,7 @@ Source repository: <https://github.com/Xiaokang2022/Xiaokang2022>
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
     <!-- <img width="400" src="https://streak-stats.demolab.com?user=Xiaokang2022&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" /> -->
     <!-- self-host in Vercel -->
-    <img width="400" src="https://github-readme-streak-stats-co2medium.vercel.app?user=co2medium&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" />
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=co2medium)](https://git.io/streak-stats)
 </p>
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
