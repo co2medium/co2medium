@@ -34,15 +34,6 @@
 <!-- <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=SXP-Simon&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 <br/> -->
 
-
-## My Friends 
-<p align="center">
-  <!-- Card Style PNG Version -->
-  <img src="./assets/friends/generated/friends-layout.png" alt="My Friends (Card Style)" width="100%" />
-  <sub><em>～(∠・ω< )⌒★ You came into my life, Just like another season~</em></sub>
-</p>
-<br/>
-
 ## About Me
 <!-- https://github.com/badges/shields -->
 <p align="center">
@@ -51,6 +42,14 @@
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <!-- <img src="https://komarev.com/ghpvc/?username=SXP-Simon" /> -->
 </p>
+
+<!-- thanks for:https://github.com/NolanHo/NolanHo -->
+> <p align="left"><em>
+>     原諒我這一生不羈放縱愛自由
+> </em></p>
+> <p align="right">
+>     &mdash;&mdash;&mdash;Beyond 《海闊天空》
+> </p>
 
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
