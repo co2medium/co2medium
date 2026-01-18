@@ -34,8 +34,8 @@
 <!-- <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=SXP-Simon&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 <br/> -->
 
-<!-- New 3D Contribution Graph -->
-<img src="./assets/profile-3d/profile-night-rainbow.svg" alt="3D GitHub Stats" width="100%"/>
+<p align="center">
+<img align="center" width="400" src="https://github-readme-activity-graph.vercel.app/graph?username=co2medium" />
 
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
