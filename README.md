@@ -46,10 +46,9 @@
 ## About Me
 <!-- https://github.com/badges/shields -->
 <p align="center">
-<a href="https://github.com/SXP-Simon"><img src="https://img.shields.io/badge/GitHub-Helian Nuits-white?logo=github" /></a>
-<a href="https://img.shields.io/github/followers/SXP-Simon?label=Follow&style=social"><img src="https://img.shields.io/github/followers/SXP-Simon?label=Follow&style=social" /></a>
-<a href="https://img.shields.io/github/stars/SXP-Simon?affiliations=OWNER&style=social"><img src="https://img.shields.io/github/stars/SXP-Simon?affiliations=OWNER&style=social" /></a>
-<a href="https://space.bilibili.com/609923881"><img src="https://img.shields.io/badge/Bilibili-没有传说的傻小胖-blue?logo=bilibili" /></a>
+<a href="https://github.com/co2medium"><img src="https://img.shields.io/badge/GitHub-co2medium-white?logo=github" /></a>
+
+<a href="https://space.bilibili.com/3546597981948005"><img src="https://img.shields.io/badge/Bilibili-不想恋爱金城武-blue?logo=bilibili" /></a>
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <!-- <img src="https://komarev.com/ghpvc/?username=SXP-Simon" /> -->
 </p>
