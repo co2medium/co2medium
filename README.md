@@ -8,16 +8,10 @@
 
 <!-- thanks for:https://github.com/NolanHo/NolanHo -->
 > <p align="left"><em>
->     何か成す者とは歩み続ける愚者である、成せぬ者とは歩めを止めた賢者である
->     <br>
->     成一事者，矢志不渝之愚者；毁一事者，停滞不前之贤者
->     <br>
->     Feats would await those who daftly enough never cease to forward,
->     <br>
->     folds always come around when you are wise enough to never attempt.
+>     山南山北雪晴，千裡萬裡月明
 > </em></p>
 > <p align="right">
->     &mdash;&mdash;&mdash;《ロクでなし魔術講師と禁忌教典》
+>     &mdash;&mdash;&mdash;戴叔倫%20《轉應曲》
 > </p>
 
 
