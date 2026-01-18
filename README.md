@@ -71,7 +71,7 @@
 
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Stay+hungry,%20Stay+foolish
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Stay+hungry+Stay+foolish
 .&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
 <br/>
