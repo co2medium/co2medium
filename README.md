@@ -21,7 +21,7 @@
 </p>
 
 <br/>
-<img src="./image/希斯缇娜.jpg" alt="希斯缇娜" style="display:block;margin-left: auto;margin-right: auto;">
+<img src="./image/sea.jpg" alt="sea" style="display:block;margin-left: auto;margin-right: auto;">
 <br/>
 
 <p align="center">
