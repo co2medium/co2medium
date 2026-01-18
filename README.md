@@ -47,7 +47,6 @@
 <!-- https://github.com/badges/shields -->
 <p align="center">
 <a href="https://github.com/co2medium"><img src="https://img.shields.io/badge/GitHub-co2medium-white?logo=github" /></a>
-
 <a href="https://space.bilibili.com/3546597981948005"><img src="https://img.shields.io/badge/Bilibili-不想恋爱金城武-blue?logo=bilibili" /></a>
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <!-- <img src="https://komarev.com/ghpvc/?username=SXP-Simon" /> -->
