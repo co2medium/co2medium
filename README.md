@@ -11,7 +11,7 @@
 >     山南山北雪晴，千裡萬裡月明
 > </em></p>
 > <p align="right">
->     &mdash;&mdash;&mdash;戴叔倫%20《轉應曲》
+>     &mdash;&mdash;&mdash;戴叔倫 《轉應曲》
 > </p>
 
 
