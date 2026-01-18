@@ -74,5 +74,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Stay+hungry+and+stay+foolish.&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
 <br/>
-<img src="./image/素晴日.jpg" alt="素晴日" style="display:block;margin-left: auto;margin-right: auto;">
+<img src="./image/road.jpg" alt="road" style="display:block;margin-left: auto;margin-right: auto;">
 <br/>
