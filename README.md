@@ -45,11 +45,8 @@
 
 <!-- thanks for:https://github.com/NolanHo/NolanHo -->
 > <p align="left"><em>
->     原諒我這一生不羈放縱愛自由
+>     不過人間雲煙客，何不一試龍與蚯
 > </em></p>
-> <p align="right">
->     &mdash;&mdash;&mdash;Beyond 《海闊天空》
-> </p>
 
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
