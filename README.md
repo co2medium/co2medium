@@ -3,7 +3,7 @@
 -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=300&&section=header&text=Hi%20there!&fontSize=90&fontAlign=50&fontAlignY=30&desc=Welcome%20to%20my%20Github!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=300&&section=header&text=Hi%20there&fontSize=90&fontAlign=50&fontAlignY=30&desc=Welcome%20to%20my%20Github&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
 <!-- thanks for:https://github.com/NolanHo/NolanHo -->
@@ -17,7 +17,7 @@
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=This+is+co2medium%27s+GitHub!" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=This+is+co2medium%27s+GitHub" />
 </p>
 
 <br/>
