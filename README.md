@@ -8,10 +8,10 @@
 
 <!-- thanks for:https://github.com/NolanHo/NolanHo -->
 > <p align="left"><em>
->     山南山北雪晴，千裡萬裡月明
+>     古之立大事者，不惟有超世之才，亦必有堅忍不拔之志。
 > </em></p>
 > <p align="right">
->     &mdash;&mdash;&mdash;戴叔倫 《轉應曲》
+>     &mdash;&mdash;&mdash;蘇軾《晁錯論》
 > </p>
 
 
