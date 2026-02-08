@@ -24,15 +24,6 @@
 <img src="./image/sea.jpg" alt="sea" style="display:block;margin-left: auto;margin-right: auto;">
 <br/>
 
-<p align="center">
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=co2medium&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
-<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=co2medium&theme=transparent&hide_border=true" />
-
-<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<!-- <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=SXP-Simon&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-<br/> -->
 
 ## About Me
 <!-- https://github.com/badges/shields -->
