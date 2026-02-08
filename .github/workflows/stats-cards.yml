@@ -5,12 +5,21 @@ on:
     branches:
       - main
       - master
+    # 排除 profile 目录的推送，避免无限循环
+    paths-ignore:
+      - 'profile/**'
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      # 赋予读写仓库内容的权限
+      contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          # 拉取完整历史，确保能提交
+          fetch-depth: 0
 
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
@@ -38,8 +47,20 @@ jobs:
 
       - name: Commit cards
         run: |
-          git config co2medium "github-actions"
-          git config 2865715905@qq.com "github-actions@users.noreply.github.com"
+          # 修复 git 配置语法错误
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # 检查是否有变更，避免空提交
           git add profile/*.svg
-          git commit -m "Update README cards" || exit 0
-          git push
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          
+          # 提交并推送
+          git commit -m "Update README cards [skip ci]"
+          git push origin ${{ github.ref }}
+        env:
+          # 使用 GITHUB_TOKEN 进行推送认证
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
